@@ -3,7 +3,7 @@
 ### Computer Science student, Game and App developer
 
 I'm a person that enjoys facing new and challenging projects, in order to learn something new.
-I've developed a videogame when I was 2016, and another one when I was 2017. I've also published and android app in 2021.  
+I've developed a videogame in 2016, and another one in 2017. I've also published and android app in 2021.  
 
 🔭 I'm currently working on a Javascript library which, with the use of Aframe.js and Handsfree.js, users will be able to grab objects floating around you with just your hands.  
 
